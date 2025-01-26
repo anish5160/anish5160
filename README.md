@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi, I'm Anish 👋
+### Backend Developer | Django Expert | DevOps Enthusiast
 
-<!--
-**anish5160/anish5160** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I build **scalable backend solutions** using tools like **Django**, **MySQL**, and **Linux**.  
+🌟 Exploring **DevOps** and expanding my skills in **Python**, **SQL**, and **Linux scripting**.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tech Stack
+- **Languages:** Python, SQL, Bash
+- **Frameworks:** Django, Bootstrap
+- **Tools:** Git, Linux, Docker
+
+---
+
+### 🌐 Connect with Me
+- 💼 [LinkedIn](https://www.linkedin.com/in/anish5160)
+- 📧 Email: anish5160@gmail.com
