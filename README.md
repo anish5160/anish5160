@@ -7,9 +7,9 @@ I build **scalable backend solutions** using tools like **Django**, **MySQL**, a
 ---
 
 ### 🛠️ Tech Stack
-- **Languages:** Python, SQL, Bash
-- **Frameworks:** Django, Bootstrap
-- **Tools:** Git, Linux, Docker
+- **Languages:** Python, SQL, Bash, javascript
+- **Frameworks:** Django, Bootstrap, reactjs, langchain
+- **Tools:** Git, Linux
 
 ---
 
