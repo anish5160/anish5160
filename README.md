@@ -14,5 +14,5 @@ I build **scalable backend solutions** using tools like **Django**, **MySQL**, a
 ---
 
 ### 🌐 Connect with Me
-- 💼 [LinkedIn](https://www.linkedin.com/in/anish5160)
+- 💼 (https://www.linkedin.com/in/anish5160)
 - 📧 Email: anish5160@gmail.com
