@@ -1,5 +1,5 @@
 # Hi, I'm Anish 👋
-### Backend Developer | Django Expert | DevOps Enthusiast
+### Backend Developer | Django | DevOps Enthusiast
 
 I build **scalable backend solutions** using tools like **Django**, **MySQL**, and **Linux**.  
 🌟 Exploring **DevOps** and expanding my skills in **Python**, **SQL**, and **Linux scripting**.
